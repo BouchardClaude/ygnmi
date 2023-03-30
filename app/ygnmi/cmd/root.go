@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/openconfig/ygnmi/app/ygnmi/cmd/generator"
+	"github.com/BouchardClaude/ygnmi/app/ygnmi/cmd/generator"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
