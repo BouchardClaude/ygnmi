@@ -194,7 +194,7 @@ func generateStructs(modules []string, schemaPath, version string) error {
 			GenerateLeafSetters:                 true,
 			ValidateFunctionName:                "Validate",
 			GenerateSimpleUnions:                true,
-			IncludeModelData:                    false,
+			IncludeModelData:                    true,
 			AppendEnumSuffixForSimpleUnionEnums: true,
 		},
 	)
