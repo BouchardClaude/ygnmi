@@ -18,7 +18,7 @@ package main
 import (
 	"log"
 
-	"github.com/openconfig/ygnmi/app/ygnmi/cmd"
+	"github.com/BouchardClaude/ygnmi/app/ygnmi/cmd"
 )
 
 func main() {
