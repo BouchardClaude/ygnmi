@@ -1,4 +1,4 @@
-module github.com/openconfig/ygnmi
+module github.com/BouchardClaude/ygnmi
 
 go 1.18
 
