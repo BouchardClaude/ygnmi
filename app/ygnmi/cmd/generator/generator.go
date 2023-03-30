@@ -24,7 +24,7 @@ import (
 	"strings"
 
 	"github.com/openconfig/goyang/pkg/yang"
-	"github.com/openconfig/ygnmi/pathgen"
+	"github.com/BouchardClaude/ygnmi/pathgen"
 	"github.com/openconfig/ygot/genutil"
 	"github.com/openconfig/ygot/gogen"
 	"github.com/openconfig/ygot/ygen"
